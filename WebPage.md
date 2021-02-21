@@ -69,7 +69,7 @@ Tips:
 
 Once you have a good list of pillars, go to step 2.
 
-Filtering the game pillars
+# 2) Filtering the game pillars
 Now that you have a list of things you want your game to have, it’s time to think practically and decide with your team which pillars are the best to set.
 In this step we have to take into account budget, time frame, target audience,etc.
 
@@ -83,10 +83,10 @@ If you haven’t thought about your audience yet, this is the time to do so, wil
 Is this game pillar going to help us sell our game?
 This has to do with the target audience point but, if you are focused on having revenue out of this game (which we are not, but in the future we probably will), what are some pillars you know work well and have led to successful games? What is the market and the people asking for?
 
-Final decision
+# 3) Final decision
 With your team, look at the possible game pillar you have left and discuss what you want. It can be useful to look at the Synergy point in step 1 to make your final decision. This is all about what you as a team want this game to become, so once your game pillars have passed the first and second step, you can focus on picking which ones work best for you and your team. 
 
-Stick to your game pillars!!
+# 4) Stick to your game pillars!!
 This step is as long as the development process. You and your team have put effort and thought into these game pillars, so stick to them! As mentioned before, if you treat them as immobile facts, they will help you stay focused, solve discussions and make quick decisions.
 
 Would it be bad to change a pillar mid process?
@@ -97,10 +97,17 @@ THIRD your process is not too advanced, because it would just be inconvenient to
 
 
 
-[Link] https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php
-[Link] https://www.reddit.com/r/gamedesign/comments/apxo1a/what_are_your_core_pillars_and_how_do_you_stick/
-[Link] https://80.lv/articles/defining-the-core-of-your-game-design-pillars/
-[Link] http://www.maxpears.com/2017/09/02/design-pillars-the-core-of-your-game/
-[Link] https://medium.com/@EightyLevel/the-main-pillars-of-game-design-57694e57cba
-[Link] https://www.reddit.com/r/gamedesign/comments/eup8mz/examples_of_game_pillars/
-[Link] http://acagamic.com/game-design-course/communication-and-game-design-documents/
+https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php
+
+https://www.reddit.com/r/gamedesign/comments/apxo1a/what_are_your_core_pillars_and_how_do_you_stick/
+
+https://80.lv/articles/defining-the-core-of-your-game-design-pillars/
+
+http://www.maxpears.com/2017/09/02/design-pillars-the-core-of-your-game/
+
+https://medium.com/@EightyLevel/the-main-pillars-of-game-design-57694e57cba
+
+https://www.reddit.com/r/gamedesign/comments/eup8mz/examples_of_game_pillars/
+
+http://acagamic.com/game-design-course/communication-and-game-design-documents/
+
