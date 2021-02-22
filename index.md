@@ -1,6 +1,7 @@
 
 ### Maria Calle Galán
 # Personal Research: GAME PILLARS
+Link to GitHub project: https://github.com/mav006/mav006.github.io
 
 Game Pillars:
 
